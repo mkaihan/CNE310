@@ -35,5 +35,6 @@ notepad++ IpAddress.py
 ```
 
 ## Thanks
-Dr. Zac with the video instruction
-installing packages from https://packaging.python.org/en/latest/tutorials/installing-packages/
+Dr. Zac with the video instruction.
+
+and installing packages from https://packaging.python.org/en/latest/tutorials/installing-packages/
