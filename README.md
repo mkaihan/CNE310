@@ -1,33 +1,39 @@
 # Project Title
 
-One Paragraph of project description goes here.
+this Homework is for CNE330 Week 3, network programming in python. this code will takes a ip_address and returns a string formatted as a ping. which prints the return of the ping function with 3 IP addresses
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will setup on your local machine for running the code which prints the return of the ping function with 3 IP addresses.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+IpAddress.py requires python to run. The commands below will show how to install Python.
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
+please download Python from https://www.python.org/downloads/
+
+please install the Python packages from https://packaging.python.org/en/latest/tutorials/installing-packages/
 ```
 
 ## Running
+Before you go any further, make sure you have Python and that the expected version is available from your command line. You can check this by running: py --version
+
 Once installed you can run the program with the following command
 
+
 ```
-python cna_demo.py
+python IpAddress.py
+
 ```
 
 Add any additional ways to run the program below
 
 ```
-python cna_demo.py test.txt
+notepad++ IpAddress.py 
+
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Dr. Zac with the video instruction
+installing packages from https://packaging.python.org/en/latest/tutorials/installing-packages/
